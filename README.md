@@ -8,7 +8,17 @@
 
 ![](project1.png)
 
-# Project 2 - Data visualization
+# Project 2 - Improved decision making capability
+
+* Forecasting output is a key capability for most teams
+* Utilizing an average to predict future performance is risky
+* Probabilistic forecasting helps provide more confidence behind estimates
+* This R Shiny Application was designed for users to input historical data and develop forecasts with varying levels of confidence
+
+## [Shiny Application for Probabilistic Forecasting](https://comora.shinyapps.io/Prob_Forecasting/?_ga=2.238667712.1329687789.1682367085-379141333.1679908674)
+![](forecasting.png)
+
+# Project 3 - Data visualization
 
 * London is a large city with 33 distinct boroughs
 * Homelessness rates vary among the boroughs
